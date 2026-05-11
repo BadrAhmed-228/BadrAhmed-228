@@ -45,7 +45,7 @@
 </p>
 
 <p align="left">
-<b>DEPI Internship</b> — July 2025 (Current) <br>
+<b>DEPI Internship</b> — June 2025 – November 2025 <br>
 ✔ Completed the Data Science and AI track, gaining knowledge of data science ecosystems, AI methodologies, and end-to-end pipelines. <br>
 ✔ Engineered robust Python solutions applying problem-solving, web scraping, and OOP for scalable and reusable code. <br>
 ✔ Strengthened soft skills in teamwork, communication, and project collaboration.
